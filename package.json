@@ -1,0 +1,15 @@
+{
+  "name": "js-test-demo",
+  "version": "1.0.0",
+  "description": "Ons eerste project met unit testen",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest",
+    "test:watch": "npx jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
